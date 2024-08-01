@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Exploration on Supervised-Finetuning on Small Language Models"
+date:   2024-01-03 17:34:54 +00:00
+image: /images/sftslm.png
+categories: school
+course: Pattern Recognition & Machine Learning
+report: /pdfs/prml_slm.pdf
+# authors: "Jin Gao, <strong>Yuankai Li</strong>, Yixin Ye, Lei Gan, Dequan Wang"
+# venue: "Submitted to CVPR 2024"
+# subtitle: "Adding Natural User Interfaces to Software"
+---
+I finetune GPT2-small over the MOSS-002 SFT dataset and conducted various capability tests with the BigBench dataset.
+<!-- With Stan Melax. We ran a Hand-On lab for  Intel's Perceptual Computing SDK at the Intel Development Forum 2013 in San Francisco. The focus was on building novel user interactions and working with 3D sensor data. -->

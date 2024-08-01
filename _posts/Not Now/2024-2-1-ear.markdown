@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Demonstration Selection for Knowledge-Intensive In-Context Learning"
+date:   2024-2-1 20:32:34 +00:00
+image: /images/demoselect.png
+categories: research
+authors: "<strong>Co-first author</strong>, with additional authors omitted for anonymity."
+venue: "In Preparation for COLM 2024"
+
+# subtitle: "Adding Natural User Interfaces to Software"
+---
+We proposed a novel prompting paradigm with a training-free demonstration selection method that achieves SOTA performance on knowledge-intensive QA tasks like MedQA.
+<!-- With Stan Melax. We ran a Hand-On lab for  Intel's Perceptual Computing SDK at the Intel Development Forum 2013 in San Francisco. The focus was on building novel user interactions and working with 3D sensor data. -->

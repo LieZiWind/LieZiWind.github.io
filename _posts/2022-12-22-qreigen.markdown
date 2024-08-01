@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Implicit QR Algorithm for Eigen Value Problems"
+date:   2022-12-22 11:31:23 +00:00
+image: /images/qreigen.png
+categories: school
+course: Numerical Linear Algebra
+code: https://github.com/LieZiWind/QR-Algorithm-for-eigenvalues
+# authors: "Jin Gao, <strong>Yuankai Li</strong>, Yixin Ye, Lei Gan, Dequan Wang"
+# venue: "Submitted to CVPR 2024"
+# subtitle: "Adding Natural User Interfaces to Software"
+---
+I implement the implicit QR algorithm proposed by John G. F. Francis(1962) in Matlab. The algorithm can find the eigenvalue of any given matrix in a reasonable amount of time.
+<!-- With Stan Melax. We ran a Hand-On lab for  Intel's Perceptual Computing SDK at the Intel Development Forum 2013 in San Francisco. The focus was on building novel user interactions and working with 3D sensor data. -->
