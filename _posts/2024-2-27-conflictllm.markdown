@@ -8,7 +8,7 @@ authors: "Jin Gao, Lei Gan*, <strong>Yuankai Li*</strong>, Yixin Ye, Dequan Wang
 venue: "ECCV 2024"
 paper: https://selfcontradiction.github.io
 huggingface: https://huggingface.co/datasets/sci-benchmark/self-contradictory
-github: https://github.com/shiyegao/Self-Contradictory-Instructions-SCI
+code: https://github.com/shiyegao/Self-Contradictory-Instructions-SCI
 # subtitle: "Adding Natural User Interfaces to Software"
 
 ---
