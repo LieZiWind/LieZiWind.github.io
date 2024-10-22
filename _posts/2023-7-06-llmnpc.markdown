@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  "LLMs as NPCs: Toward Human-Like and Interpretable Multi-Agent Driving Simulation"
+title:  "SCP: Scalable and Customizable Generation of Planning-specific Corner Cases in Autonomous Driving "
 date:   2024-07-06 17:20:15 +00:00
-image: /images/llmnpc.png
+image: /images/scpllm.png
 categories: research
-authors: "<strong>Second author</strong>, with additional authors omitted for anonymity."
-venue: "Submitted to CoRL 2024"
+authors: "Lingfeng Zhou, Jin Gao, Mohan Jiang, Yufeng Liu, Yuankai Li, Dequan Wang"
+venue: "Submitted to ICRA 2025, under review"
+paper: https://maple-zhou.github.io/SCP/
+
 
 
 # subtitle: "Adding Natural User Interfaces to Software"
 
 ---
 
-We develope an autonomous driving simulation system using LLMs in the decision-making stage and devised a method to translate a series of LLM decisions into simulation trajectories.
+We introduce a novel approach that leverages LLMs to generate scalable and customizable planning-specific corner cases for autonomous driving systems. It is data-agnostic and training-free, incorporating intention-driven context by explicit natural language commands.
 
 <!-- With Stan Melax. We ran a Hand-On lab for  Intel's Perceptual Computing SDK at the Intel Development Forum 2013 in San Francisco. The focus was on building novel user interactions and working with 3D sensor data. -->
