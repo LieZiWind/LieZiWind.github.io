@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "SCP: Scalable and Customizable Generation of Planning-specific Corner Cases in Autonomous Driving "
-date:   2024-07-06 17:20:15 +00:00
-image: /images/scpllm.png
+date:   2024-08-06 17:20:15 +00:00
+image: /images/scpautonomous.png
 categories: research
 authors: "Lingfeng Zhou, Jin Gao, Mohan Jiang, Yufeng Liu, <strong>Yuankai Li<strong>, Dequan Wang"
 venue: "Submitted to ICRA 2025, under review"
