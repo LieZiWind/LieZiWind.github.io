@@ -4,7 +4,7 @@ title:  "Dissecting Dissonance: Benchmarking Large Multimodal Models Against Sel
 date:   2024-02-27 20:32:34 +00:00
 image: /images/conflictllm.png
 categories: research
-authors: "Jin Gao, Lei Gan*, <strong>Yuankai Li*<\strong>, Yixin Ye, Dequan Wang"
+authors: "Jin Gao, Lei Gan*, <strong>Yuankai Li*</strong>, Yixin Ye, Dequan Wang"
 venue: "ECCV 2024"
 paper: https://selfcontradiction.github.io
 huggingface: https://huggingface.co/datasets/sci-benchmark/self-contradictory

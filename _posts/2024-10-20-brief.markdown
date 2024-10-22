@@ -4,7 +4,7 @@ title:  "BRIEF: Bridging Retrieval and Inference for Multi-hop Reasoning via Com
 date:   2024-10-20 20:16:34 +00:00
 image: /images/brief_inference.png
 categories: research
-authors: "<strong>Yuankai Li*<\strong>, Jia-Chen Gu*, Di Wu, Kai-Wei Chang, Nanyun Peng"
+authors: "<strong>Yuankai Li*</strong>, Jia-Chen Gu*, Di Wu, Kai-Wei Chang, Nanyun Peng"
 venue: "Submitted to NAACL 2025, under review"
 paper: https://jasonforjoy.github.io/BRIEF/
 code: https://github.com/JasonForJoy/BRIEF
